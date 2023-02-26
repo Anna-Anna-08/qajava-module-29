@@ -1,0 +1,10 @@
+Данные на которых тест провалился:
+For age-1:Actual result:true/Expected result:false
+For age0:Actual result:true/Expected result:false
+For age12:Actual result:true/Expected result:false
+ Условие задачи:
+ Тинейджерами являются в возрасте от 13 до 19 включительно.
+ В решении предложеном программистом выставлено значение -if (age < 19)
+ это говорит о том что под это значение попадает возраст от 1 до 19 включительно,что противоречит условию задачи.
+
+
