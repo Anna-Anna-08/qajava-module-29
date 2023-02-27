@@ -2,6 +2,7 @@
 For age-1:Actual result:true/Expected result:false
 For age0:Actual result:true/Expected result:false
 For age12:Actual result:true/Expected result:false
+For age19:Actual result:true/Expected result:true
  Условие задачи:
  Тинейджерами являются в возрасте от 13 до 19 включительно.
  В решении предложеном программистом выставлено значение -if (age < 19)
